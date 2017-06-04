@@ -1,5 +1,5 @@
 # DQN_GridWorld
-Dueling-Double-Deep-Q-Network, reinforcement learning. Variant based on ...
+Dueling-Double-Deep-Q-Network. Reinforcement Learning. 
 
 Variant based on https://github.com/awjuliani/DeepRL-Agents/blob/master/Double-Dueling-DQN.ipynb
 
